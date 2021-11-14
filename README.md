@@ -8,15 +8,13 @@ ___
  ___
 # comandos 
 
-- apt update -y && apt upgrade -y
-- pkg install nodejs
+- pkg install nodejs-lts
+- pkg update && pkg upgrade
 - pkg install git
-- git clone https://github.com/nabutols/BOTZAZA
-- cd BOTZAZA
-- npm i npm@6
+- git clone https://github.com/nabutols/botzaza
+- cd botzaza
 - npm install terminal-kit
-- npm start
-
+- sh install.sh
 ai vai gerar o qrcode e você scaneia em "aparelhos conectados" e pronto.
 ___
 
