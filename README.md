@@ -27,7 +27,7 @@ ___
  npm install terminal-kit
  ```
  ```
- sh install.sh
+ npm start 
  ```
 ai vai gerar o qrcode e você scaneia em "aparelhos conectados" e pronto.
 ___
