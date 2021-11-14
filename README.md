@@ -15,6 +15,9 @@ ___
  pkg update && pkg upgrade
 ```
 ```
+pkg install ffmpeg
+```
+```
  pkg install git
 ```
 ```
