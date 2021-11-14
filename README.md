@@ -8,13 +8,27 @@ ___
  ___
 # comandos 
 
-- pkg install nodejs-lts
-- pkg update && pkg upgrade
-- pkg install git
-- git clone https://github.com/nabutols/botzaza
-- cd botzaza
-- npm install terminal-kit
-- sh install.sh
+```
+ pkg install nodejs-lts
+```
+```
+ pkg update && pkg upgrade
+```
+```
+ pkg install git
+```
+```
+ git clone https://github.com/nabutols/botzaza
+```
+ ```
+ cd botzaza
+ ```
+ ```
+ npm install terminal-kit
+ ```
+ ```
+ sh install.sh
+ ```
 ai vai gerar o qrcode e você scaneia em "aparelhos conectados" e pronto.
 ___
 
