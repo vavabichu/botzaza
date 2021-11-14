@@ -27,10 +27,7 @@ pkg install ffmpeg
  cd botzaza
  ```
  ```
- npm install terminal-kit
- ```
- ```
- npm start 
+ sh install.sh
  ```
 ai vai gerar o qrcode e você scaneia em "aparelhos conectados" e pronto.
 ___
